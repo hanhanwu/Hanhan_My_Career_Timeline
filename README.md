@@ -24,9 +24,11 @@ Here, I'm going to create Poker Cards to show an overview of my Data Science ski
 
 ***************************************************************************************
 
-HANHAN'S PROJECTS TIMELINE
+HANHAN'S PROJECTS TIMELINE & AREAS
 
-Many details here will br created
+Part 1 - My poker cards for data science areas I have worked on, such as NLP, Security, Finance, etc
+
+Part 2 - Time line samples for each year here, and all details in other pages
 
 
 ***************************************************************************************
