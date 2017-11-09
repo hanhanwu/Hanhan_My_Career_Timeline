@@ -10,7 +10,7 @@ PREFACE
 * Here, I'm going to show how am I growing up in the industry world, with more details, and in my style
   * Skills Overview (NOT as plain or boring as you thought)
   * Hanhan's Projects Timeline - All the Data Science projects started from 2011,with more details
-  * Deal (Play) with HR 😎
+  * How to Make HR Happy and Get What I Want
 
 I'm a Data Scientist, by the way
 
@@ -33,9 +33,9 @@ Part 2 - Time line samples for each year here, and all details in other pages (a
 
 ***************************************************************************************
 
-DEAL WITH HR
+How to Make HR Happy and Get What I Want
 
-😎, they simply keep inspiring my data science projects 😎
+😎
 
 
 ***************************************************************************************
