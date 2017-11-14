@@ -4,18 +4,45 @@
 
 OVERVIEW
 
+[2013](#2013)
 [2011-2012](#2011-2012)
+
+
+******************************************************************
+
+## 2013
+
+### 3 Volunteer Work At The Same Time
+* <b>Time</b>: 2013 Jan - 2013 June
+* <b>Location</b>: Seattle
+* <b>Background</b>
+  * After getting my first master's degree in 2012 Dec, I got the job offer from Microsoft in 2013 Jan, but had to wait until 2017 July to onboard. Before that day, I had to work in US (even just work as a volunteer) so that I can stay in US. Therefore, now you are seeing I was working on 3 volunteer work at the same time during that time period.
+* <b>Project 1 - University of Arizona Lie Tester Project</b>
+* <b>Description</b>
+  * This is a human computer interaction project with psychology and data science in it. When a user interact with our lie tester, the tool will analyze the user psychology at the same time, based on user keyboard typing, mouse movement on Desktop or finger behaviour on Mobile Touch screen. 
+    * I was working on:
+      * Desktop & Mobile version interactive user interface development
+      * Real time data collection and data preprocessing 
+  * <b>Tools</b>
+    * Language - jQuery, jQuery Mobile, Java
+    * IDE - Eclipse
+  * <b>Impact & Benefits</b>
+    * That was the first version Lie Tester tool of my professors' startup company, right now this startup company is 3 years old, and they are working with goverment agencies as well as other organization to test user psychology through their bio behaviours.
+    * During the implementation of this project, I implemented different methods to collect user bio behaviours on Desktop mouse movement and keyboard typing; on Touch interactive behaviours. By collaborating with these professors in human computer interaction, I have also learned a lot about the color and arrangement of web elements as well as the user experience they created to users, and how to design the web to give user a relaxed environment when they are doing lie testing
+    * Also because of this project, using biometrics and AI have opened my mind and broden my eyes
+* <b>Project 2 - University of Washington AI Lab</b>
+
 
 ******************************************************************
 
 ## 2011-2012
 
 ### Global Politics Web Mining Project
-* <b>Time</b>: 2011 Oct. - 2012 May
+* <b>Time</b>: 2011 Oct - 2012 May
 * <b>Location</b>: University of Arizona AI Lab
 * <b>Description</b>
   * The purpose for this project is to find potential terrorism web posts from billions Mid-East web posts
-  * I worked on:
+  * I was working on:
     * Spidering & Web Crawling 2+ million Mid-East Web forum posts per day
     * Data Preprocessing, Software Development
 * <b>Tools</b>
@@ -30,7 +57,7 @@ OVERVIEW
   * In 2011, I started my first master's degree at business school. I chose University of Arizona was to avoid coding since I wanted to focus on business study, hoping I could be a business people after school graduation. But on the first day of school, I met my first friend in US who just finished Amazon Software Development Engineer (SDE) Intern and got the return offer. He told me SDE is well paid and the work is excited. It's Amazon! What an attractive name to me. All what I really wanted was a job in a good company. My friend told me, I could try to apply AI Lab to gain some experience first. But I didn't know Java at all. So I wrote an email to the head professor, telling him that I can work for his lab for free, telling him that I was full of passion to make some contributions to his projects, I was! He replied me immediately and agreed to let me work as their student developer. His email had not only provided me with the opportunities to learn and gain experience in data mining and software development, but also opened my eyes in AI. Till now, I feel thankful for his generous.
 
 ### Amazon FBA Internal Search Engine Project
-* <b>Time</b>: 2012 May - 2012 Aug.
+* <b>Time</b>: 2012 May - 2012 Aug
 * <b>Location</b>: Amazon, Seattle
 * <b>Description</b>
   * The purpose for this project was to get familar with Amazon FBA (Fulfillment By Amazon) merchants and products database, and build internal search engine to allow Amazon internal SDEs search for merchants data with their products data faster.
