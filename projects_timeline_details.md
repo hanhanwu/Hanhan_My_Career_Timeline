@@ -23,15 +23,37 @@ OVERVIEW
     * I was working on:
       * Desktop & Mobile version interactive user interface development
       * Real time data collection and data preprocessing 
-  * <b>Tools</b>
-    * Language - jQuery, jQuery Mobile, Java
-    * IDE - Eclipse
-  * <b>Impact & Benefits</b>
-    * That was the first version Lie Tester tool of my professors' startup company, right now this startup company is 3 years old, and they are working with goverment agencies as well as other organization to test user psychology through their bio behaviours.
-    * During the implementation of this project, I implemented different methods to collect user bio behaviours on Desktop mouse movement and keyboard typing; on Touch interactive behaviours. By collaborating with these professors in human computer interaction, I have also learned a lot about the color and arrangement of web elements as well as the user experience they created to users, and how to design the web to give user a relaxed environment when they are doing lie testing
-    * Also because of this project, using biometrics and AI have opened my mind and broden my eyes
+* <b>Tools</b>
+  * Language - jQuery, jQuery Mobile, Java
+  * IDE - Eclipse
+* <b>Impact & Benefits</b>
+  * That was the first version Lie Tester tool of my professors' startup company, right now this startup company is 3 years old, and they are working with goverment agencies as well as other organization to test user psychology through their bio behaviours.
+  * During the implementation of this project, I implemented different methods to collect user bio behaviours on Desktop mouse movement and keyboard typing; on Touch interactive behaviours. By collaborating with these professors in human computer interaction, I have also learned a lot about the color and arrangement of web elements as well as the user experience they created to users, and how to design the web to give user a relaxed environment when they are doing lie testing
+  * Also because of this project, using biometrics and AI have opened my mind and broden my eyes
 * <b>Project 2 - University of Washington AI Lab</b>
-
+* <b>Description</b>
+  * UW AI Lab was working on natural language processing (NLP), and the professor asked me to analyze their self-developed NLP tools, Reverb and Ollie
+  * I was working on:
+    * Big data NLP processing with Reverb and Ollie. The data input was trillions of human text, and th output was extratced phrases
+    * Organize the data output into JSON
+    * Attend weekly AI lab meeting, to learn more about NLP
+* <b>Tools</b>
+  * Language - Java
+  * IDE - Eclipse
+* <b>Impact & Benefits</b>
+  * That was the first time NLP and AI opened my eyes. The weekly lunch was also pretty good. Later, after I joined Microsoft, I have found those professors I sat with are very famous in AI area and they are active in Microsoft Research
+* <b>Project 3 - Make A Wish Washington</b>
+* <b>Description</b>
+  * Make A Wish is an organization to help those children with serious disease to make a wish come true and leave a beautiful memory, because most of these children may not have any opportunity longer. Most of them have cancer.
+  * I was working on:
+    * Public speaking in University Washington, Space Needle to get more public attention to this organization and recruite more volunteers to build beautiful wishes for the children.
+    * Creative idea design to organize children's wishes, such as a deam tour to Disney Land, making dream cakes, etc.
+* <b>Impact & Benefits</b>
+  * Through the public speaking, more than 1000 people in Seattle have listened to my speech and we have recruitered 20+ new volunteers right after my speeches. 50+ people and organization made the donation to those children who need a beautiful wish come true
+  * In order to organize events for the children, I had to interview them and their families in person. The children had cancer and even though everyone knows cancer won't be spreaded to others, I still remember how sensitive and shy those children are. They are afraid of getting close to healthy people because they didn't want to hurt anyone. I also saw how their sisters and brothers took care of these sick children, it was very touching. Maybe because of what I have seen there, I have learned, no matter what happened, never lose hope, because when you are still healthy, you are already very lucky.
+* <b>Other Memories</b>
+  * You may wonder why I was doing 3 volunteer work at the same time. Here's why. After I got Microsoft offer but learned that I had to wait till 2013 July to onboard, I kept looking for jobs. One of a software companies in Seattle had 7 rounds interviews and I passed all of them. During the time they were about to give me the offer, I have learned that working in US, the company has to pay for H1B working visa for me. During that time, Microsoft has already started my H1B visa application. If I let this company to pay for H1B for me too, then 5 months later I leave them, telling them I will join Microsoft, it's immoral and I really could not do that, I thought it was not fair to that company when they wanted a long term full-time employee. So, I rejected them and rather chose to work as a volunteer. I emailed all the professsors in UW CS and MIS departments, that's 100+ professors, 5 of them replied and saying they were willing to help. I also emailed University of Arizona MIS professors, one of my favorite professors, warm-hearted Professor Valacich replied and asked his PhD student Jeff Jenkins to help me get the work application and start to join their projects. That was so excited! Although all those were volunteer work, It's a great pleasure to work with those professors and they guided me to AI, Human Computer Interaction and Natural Language Processing. When I started my work at Microsoft, Jeff got his PhD degree, now he's a professor too, and he is the co-founder with Professor Valacich in that startup company. Till now, every time when I need a reference letter for school application or job application, Jeff will write one for me. 
+  * I think that was my favorite moment in Seattle. Professors are easy to work with, they only focus on research and science and get things done on time. They are super friendly and kind. Everyday, I was learning a lot, growing at the speed I was happy with.
 
 
 ## 2011-2012
