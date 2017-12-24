@@ -1,19 +1,3 @@
-# Hanhan_My_Career_Timeline
-Record detailed career development, skills built along my journey, in Hanhan's style!
-
-
-***************************************************************************************
-
-PREFACE
-
-* I had these idea for a while, even though I'm busy, just cannot kill ideas. Let's take actions!
-* Here, I'm going to show how am I growing up in the industry world, with more details, and in my style
-  * Skills Overview (NOT as plain or boring as you thought)
-  * Hanhan's Projects Timeline - All the Data Science projects started from 2011,with more details
-  * How to Make HR Happy and Get What I Want
-
-I'm a Data Scientist, by the way
-
 
 ***************************************************************************************
 
@@ -26,16 +10,6 @@ Here, I'm going to create Poker Cards to show an overview of my Data Science ski
 
 HANHAN'S PROJECTS TIMELINE & AREAS
 
-Part 1 - My poker cards for data science areas I have worked on, such as NLP, Security, Finance, etc
+Part 1 - Visualization for data science areas I have worked on, such as NLP, Security, Finance, etc
 
 Part 2 - Time line samples for each year here, and all details in other pages (add impact, such as my first AI project was to rescue the world peace 😎)
-
-
-***************************************************************************************
-
-How to Make HR Happy and Get What I Want
-
-😎
-
-
-***************************************************************************************
