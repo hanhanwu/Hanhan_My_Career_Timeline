@@ -8,7 +8,7 @@ Here, I'm going to create Poker Cards to show an overview of my Data Science ski
 
 ***************************************************************************************
 
-[Hanhan's Career & Projects Timeline][1] <b>Click Me!</b>
+[Hanhan's Career & Projects Timeline [Click Me!]][1]
 
 ![my work places](https://github.com/hanhanwu/Hanhan_My_Career_Timeline/blob/master/my_logos.png)
 
