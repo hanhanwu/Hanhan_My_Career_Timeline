@@ -8,8 +8,10 @@ Here, I'm going to create Poker Cards to show an overview of my Data Science ski
 
 ***************************************************************************************
 
-HANHAN'S PROJECTS TIMELINE & AREAS
+[Hanhan's Career & Projects Timeline][1]
 
-Part 1 - Visualization for data science areas I have worked on, such as NLP, Security, Finance, etc
+![my work places](https://github.com/hanhanwu/Hanhan_My_Career_Timeline/blob/master/my_logos.png)
 
-Part 2 - Time line samples for each year here, and all details in other pages (add impact, such as my first AI project was to rescue the world peace 😎)
+[1]:https://github.com/hanhanwu/Hanhan_My_Career_Timeline/blob/master/Hanhan_DataScience_Career_Timeline.pdf
+
+
