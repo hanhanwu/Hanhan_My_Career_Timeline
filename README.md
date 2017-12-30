@@ -3,7 +3,7 @@
 
 SKILLS OVERVIEW
 
-Here, I'm going to create Poker Cards to show an overview of my Data Science skillset, I will update all the images before the bell of 2018 New Year
+![Skills Poker Cards](https://github.com/hanhanwu/Hanhan_My_Career_Timeline/blob/master/my_skills_poker_cards.png)
 
 
 ***************************************************************************************
