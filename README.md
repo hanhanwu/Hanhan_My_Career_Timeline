@@ -10,6 +10,6 @@
 
 ![my work places](https://github.com/hanhanwu/Hanhan_My_Career_Timeline/blob/master/my_logos.png)
 
-[1]:https://github.com/hanhanwu/Hanhan_My_Career_Timeline/blob/master/Hanhan_DataScience_Career_Timeline_2018.pdf
+[1]:https://github.com/hanhanwu/Hanhan_My_Career_Timeline/blob/master/Hanhan_DataScience_Career_Timeline_2019.pdf
 
 
